@@ -1,0 +1,36 @@
+	  div {
+            width: 50%;
+            margin: auto;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .gravityIMG {
+            width: 250px;
+            float: left;
+            margin: 0 10px 10px 0;
+        }
+
+        .planetIMG {
+            width: 250px;
+            float: right;
+            margin: 0 0 10px 20px;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        .Half {
+            float: left;
+            width: calc(50% - 10px);
+            margin: 5px;
+            text-align: left;
+        }
+
+        .FifthPar {
+            clear: both;
+            padding-top: 30px;
+        }
